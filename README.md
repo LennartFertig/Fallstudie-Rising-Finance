@@ -3,3 +3,4 @@ Rising Finace: Cause thats what you want
 
 In diesem Github können wir alle Dokumentationen, Dateien und Projektfortschritte -rund um die Fallstudie und unsere Rising Fiance Produkt- Uploaden.
 
+Follow us on Instagram: rising.finance
