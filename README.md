@@ -11,7 +11,7 @@ Abgabe der Fallstudie umfasst dieses GitHub Repository "Fallstudie-Rising-Financ
 
 
 Vielen Dank, 
-die Rising Finance Gruppe
+ihre Rising Finance Gruppe
 
 
 Follow us on Instagram: rising.finance
