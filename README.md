@@ -3,6 +3,8 @@ INFORMATION ZUR ABGABE:
 
 Abgabe der Fallstudie umfasst dieses Git und eine Zip Datei, welche per E-Mail eingesendet wird.
 
+Bild in die ExampleDatei hochladen.
+
 
 Rising Finace: Cause thats what you want
 
