@@ -6,7 +6,7 @@ Abgabe der Fallstudie umfasst dieses GitHub Repository "Fallstudie-Rising-Financ
 - Machine Learning Algorithmus zur Emotionserkennunng: https://colab.research.google.com/drive/1y7dRN87Gcd_kcm-n419h1amPjKPGFJTT?usp=sharing#scrollTo=yi0DHlYcLrpb   
   Manual: 1. Eigenes Bild in die Example-Datei hochladen; 2. Alle Codeabschnitte ausführen; 3. Unten das Ergebnis einsehen: Emotion des Fotos mit Wahrscheinlichkeit ermittelt
 
-- Android App: Die APK-Datei (aus dem Ordner AndroidApp) auf einem Android Smartphone herunterladen (durch “Unbekannte Quellen” zulassen) und ausführen.
+- Android App: Die APK-Datei (aus dem Ordner RisingFinanceApp.zip) auf einem Android Smartphone herunterladen (durch “Unbekannte Quellen” zulassen) und ausführen.
 Alternativ: Den Ordner RisingFinance2.rar in Android Studio Code ausführen.
 
 
