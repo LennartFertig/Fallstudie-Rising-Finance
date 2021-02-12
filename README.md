@@ -11,7 +11,7 @@ Alternativ: Den Ordner RisingFinance2.rar in Android Studio Code ausführen.
 
 
 Vielen Dank, 
-ihre Rising Finance Gruppe
+die Rising Finance Gruppe
 
 
 Follow us on Instagram: rising.finance
