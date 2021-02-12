@@ -2,7 +2,6 @@
 INFORMATION ZUR ABGABE DES PROJEKTS:
 
 Die Abgabe des Fallstudien-Projektes umfasst dieses GitHub Repository "Fallstudie-Rising-Finance". 
-Entahlten sind unter anderem:
 
 - Machine Learning Algorithmus zur Emotionserkennunng: https://colab.research.google.com/drive/1y7dRN87Gcd_kcm-n419h1amPjKPGFJTT?usp=sharing#scrollTo=yi0DHlYcLrpb   
   Manual: 1. Eigenes Bild in die Example-Datei hochladen; 2. Alle Codeabschnitte ausführen; 3. Unten das Ergebnis einsehen: Emotion des Fotos mit Wahrscheinlichkeit ermittelt
